@@ -1,2 +1,2 @@
 include README.md
-recursive-include richtext_typograf/static *
+recursive-include wagtail_richtext_typograf/static *

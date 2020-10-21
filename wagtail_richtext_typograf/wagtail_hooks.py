@@ -21,8 +21,8 @@ def register_stock_feature(features):
         'draftail', feature_name, draftail_features.EntityFeature(
             control,
             js=[
-                'richtext-typograf/js/typograf.all.min.js',
-                'richtext-typograf/js/richtext.typograf.js'
+                'wagtail-richtext-typograf/js/typograf.all.min.js',
+                'wagtail-richtext-typograf/js/richtext.typograf.js'
             ]
         )
     )
